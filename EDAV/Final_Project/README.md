@@ -1,0 +1,1 @@
+My original final project for Exploratory Data Analysis and Visualization from the Spring semester of 2021 was a collaboration and can be found here: https://github.com/melrbischoff/edav-final. In addition, a bookdown of our final paper can be found here: https://melrbischoff.github.io/edav-final/.
