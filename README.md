@@ -1,1 +1,3 @@
-rando
+This repo is meant to serve as a glimpse at the kind of work I did while earning my Master's in Data Science at Columbia University (where I was a part-time student from 2020-2022, taking 2 classes a semester). It is far from comprehensive; only coding assignments are included, meaning much more work is missing than present. 
+
+For navigation, I have organized the sub-repos by class, each with it's own README describing its contents. 
